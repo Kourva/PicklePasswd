@@ -1,7 +1,7 @@
 <div align="left">
    <img align="left" src="https://www.clipartmax.com/png/full/240-2404818_lock-clipart-blue-gray-password-icon-png.png" width=100/>
    <h3><b>PicklePasswd</b></h3>
-   <p>Simple pickle script to get data from /etc/passwd in Linux machines</p>
+   <p>Simple script to access password information in /etc/passwd</p>
 </div>
 <br><br><br>
 
