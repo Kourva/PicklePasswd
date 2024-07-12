@@ -13,5 +13,5 @@ with open(__file__, "r+") as this, open(".script", "rb") as pkl:
 		).decode()
 	)
 
-# Note: User should run the code again
+# Note: User must run the code again
 print("Run again!")
