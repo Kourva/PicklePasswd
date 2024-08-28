@@ -22,7 +22,7 @@ This script demonstrates how someone could create a simple script to potentially
 # Installation
 + Clone repository
 ```bash
-git clone https://github.com/kozyol/PicklePasswd
+git clone https://github.com/Kourva/PicklePasswd
 ```
 + Open source folder
 ```bash
